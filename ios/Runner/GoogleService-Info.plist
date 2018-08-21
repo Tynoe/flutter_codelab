@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>596532384575-hv6kdj6jq5m40c498o2dq4okhe1pgntf.apps.googleusercontent.com</string>
+	<string>125972967605-tbkbfhqol1ck96csvgclqaqbhjg1iqa3.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.596532384575-hv6kdj6jq5m40c498o2dq4okhe1pgntf</string>
+	<string>com.googleusercontent.apps.125972967605-tbkbfhqol1ck96csvgclqaqbhjg1iqa3</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCgzEnRT4_duO9JL9ALE4sPcinmrjUSNAg</string>
+	<string>AIzaSyDTZgr2FDqutT0HpgFjZqnBv1mOf-vl0FE</string>
 	<key>GCM_SENDER_ID</key>
-	<string>596532384575</string>
+	<string>125972967605</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.leler.firebaseCodelab</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-firebase-codelab</string>
+	<string>baby-names-app-db-146f7</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-firebase-codelab.appspot.com</string>
+	<string>baby-names-app-db-146f7.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:596532384575:ios:3d24f3e1900db4aa</string>
+	<string>1:125972967605:ios:3d24f3e1900db4aa</string>
 	<key>DATABASE_URL</key>
-	<string>https://flutter-firebase-codelab.firebaseio.com</string>
+	<string>https://baby-names-app-db-146f7.firebaseio.com</string>
 </dict>
 </plist>
